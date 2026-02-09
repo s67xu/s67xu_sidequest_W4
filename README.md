@@ -1,12 +1,13 @@
 ## Project Title
 
-GBDA302 Week 4 Example 4: layable Maze (JSON + Level class + Player class)
-
+GBDA302 Week 4 Side Quest: Between the Walls
 ---
 
 ## Authors
+Sofia Xu | s67xu | 21082052
 
-Karen Cochrane and David Han
+Original starter code by Dr. Karen Cochrane and David Han.
+Game design, iteration, mechanics expansion, UI/UX decisions, and GenAI-assisted redesign by Sofia Xu
 
 ---
 
@@ -96,6 +97,8 @@ N/A
 
 ## GenAI
 
-The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
+The original code structure was provided by Dr. Karen Cochrane and David Han. During the development of this project, I later redesigned and extended the codebase using GenAI as a support tool. GenAI was used to help restructure logic, debug gameplay issues, and iteratively refine mechanics, interactions, and visual feedback. It was also used to assist with generating and revising comments for clarity and maintainability.
+
+All final design decisions, gameplay mechanics, and implementations were reviewed, adapted, and integrated by me.
 
 ---
